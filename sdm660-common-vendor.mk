@@ -151,7 +151,6 @@ PRODUCT_PACKAGES += \
     libAlacSwDec \
     libApeSwDec \
     libFlacSwDec \
-    libI420colorconvert \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
