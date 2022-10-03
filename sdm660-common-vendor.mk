@@ -165,7 +165,6 @@ PRODUCT_PACKAGES += \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libmm-color-convertor \
     libmmosal_proprietary \
     libqtigef \
     libsmwrapper \
