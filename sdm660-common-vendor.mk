@@ -152,18 +152,6 @@ PRODUCT_PACKAGES += \
     libApeSwDec \
     libFlacSwDec \
     libI420colorconvert \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAlacDecSw \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxApeDecSw \
-    libOmxDsdDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxWmaDec \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -173,7 +161,6 @@ PRODUCT_PACKAGES += \
     libadsp_hvx_callback_skel \
     libadsp_hvx_stub \
     libaudcal \
-    libdsd2pcm \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
